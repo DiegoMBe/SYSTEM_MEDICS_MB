@@ -29,6 +29,10 @@ Thumbs.db
 .idea/
 .vscode/
 
+# Archivos de configuración de Windows
+desktop.ini
+Thumbs.db
+
 # AI Files
 AGENTS.md
 docs/

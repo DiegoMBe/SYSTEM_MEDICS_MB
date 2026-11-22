@@ -1,0 +1,34 @@
+# Eclipse workspace
+.metadata/
+
+# Eclipse temporary projects and servers
+RemoteSystemsTempFiles/
+Servers/
+
+# Eclipse project settings
+.settings/
+.project
+.classpath
+
+# Build artifacts
+target/
+bin/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# AI Files
+AGENTS.md
+docs/
